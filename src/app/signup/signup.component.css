@@ -1,0 +1,96 @@
+.margin
+{
+    margin: 0%;
+    padding: 0%;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -30px;
+}
+.parallax
+{
+    height: 500px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 50px;
+    padding-top: 20px;
+    
+}
+.container
+{
+    margin: auto;
+    width: 80%;
+    background-color: #333333;
+    opacity: 0.5;
+    height: 1200px;
+}
+.padding
+{
+    margin-top: -85%; 
+}
+label
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: left;
+    float: left;
+}
+.input
+{
+    color: black !important;
+    opacity: 1;
+}
+.example-full-width {
+    width: 100%;
+  }
+.white
+{
+    font-size: 17px;
+    color: white !important;
+}
+.radio
+{
+    margin-left: -80px;
+}
+.radio1
+{
+    margin-left: 80px;
+}
+
+.height
+{
+    margin-left: 450px;
+}
+.drop
+{
+    margin-left: -150px !important;
+}
+.signup
+{
+    margin-top: 25px;
+    width: 370px;
+}
+.height1
+{
+    margin-left: 680px;
+}
+.height2
+{
+    margin-top: 25px;
+    margin-left: 455px;
+
+}
+.MAT
+{
+    margin-left: -290px !important;
+}
